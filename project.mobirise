@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Muuttoauto.html",
+    "currentPage": "Soita.html",
     "versionFirst": "3.9.2",
     "uniqCompNum": 57,
     "versionPublish": "4.6.7",
@@ -396,7 +396,7 @@
               "newWindow": false
             }
           },
-          "text1": "<strong>YHTEYSTIEDOT</strong><br>Soita: 040-9605900<br>Sähköposti: info@muutosi.fi<br>",
+          "text1": "<strong>YHTEYSTIEDOT</strong><br><a href=\"tel:0409605900\">Soita: 040-9605900</a><br>Sähköposti: info@muutosi.fi<br>",
           "text2": "<strong>OSOITE</strong><br>Fabianinkatu 5 <br>00130 <br>Helsinki<br>",
           "text3": ""
         },
