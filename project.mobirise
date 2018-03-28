@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Hinnat.html",
     "versionFirst": "3.9.2",
     "uniqCompNum": 57,
     "versionPublish": "4.6.7",
@@ -133,7 +133,7 @@
           },
           "title": "HELSINKI<br>VANTAA<br>ESPOO<br>KAUNIAINEN",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:+358409605900\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>  "
         }
       ]
     },
@@ -249,25 +249,25 @@
           "price1": "119",
           "period1": "Manantai-torstai",
           "list1": "<ul><li><b>6 tuntia</b></li><li><b>ma-to</b></li><li><b>Klo. 08:00-22:00 välinen aika</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title2": "Muutto 2",
           "currency2": "€",
           "price2": "139",
           "period2": "Perjantai",
           "list2": "<ul><li><b>6 tuntia</b></li><li><b>Perjantaisin</b></li><li><b>Klo. 08:00-22:00 välinen aika</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title3": "Muutto 3",
           "currency3": "€",
           "price3": "199",
           "period3": "Lauantai-sunnuntai<div><br></div><div><b>Ei kuunvaihde</b></div>",
           "list3": "<ul><li><b>6 tuntia</b></li><li><b>Klo. 6:00-24:00</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title4": "Muutto 4",
           "currency4": "€",
           "price4": "249",
           "period4": "Kaikki ajat",
           "list4": "<ul><li><b>8 tuntia</b></li><li><b>Klo. 6:00-24:00</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
