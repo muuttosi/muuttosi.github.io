@@ -13,7 +13,8 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -132,7 +133,7 @@
           },
           "title": "HELSINKI<br>VANTAA<br>ESPOO<br>KAUNIAINEN",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"Soita.html\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:+358409605900\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>  "
         }
       ]
     },
@@ -248,25 +249,25 @@
           "price1": "119",
           "period1": "Manantai-torstai",
           "list1": "<ul><li><b>6 tuntia</b></li><li><b>ma-to</b></li><li><b>Klo. 08:00-22:00 välinen aika</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"Kun muutat.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title2": "Muutto 2",
           "currency2": "€",
           "price2": "139",
           "period2": "Perjantai",
           "list2": "<ul><li><b>6 tuntia</b></li><li><b>Perjantaisin</b></li><li><b>Klo. 08:00-22:00 välinen aika</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"Kun muutat.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title3": "Muutto 3",
           "currency3": "€",
           "price3": "199",
           "period3": "Lauantai-sunnuntai<div><br></div><div><b>Ei kuunvaihde</b></div>",
           "list3": "<ul><li><b>6 tuntia</b></li><li><b>Klo. 6:00-24:00</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"Kun muutat.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">OHJEET&nbsp;</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title4": "Muutto 4",
           "currency4": "€",
           "price4": "249",
           "period4": "Kaikki ajat",
           "list4": "<ul><li><b>8 tuntia</b></li><li><b>Klo. 6:00-24:00</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"Kun muutat.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
@@ -556,7 +557,7 @@
           },
           "title1": "IDEA!",
           "caption1": "Kun tarvitset sopivan auton muutamista tai muuta kuljetusta varten vuokraa auto edullisesti. Auto toimitettuna ovelle ja se noudetaan sopimuksen mukaan.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
@@ -580,7 +581,7 @@
           },
           "title2": "AUTO",
           "caption2": "Mercedes Benz Eco power perälava nostimella,  tilavuudeltaan 35 kuutiota.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media3": {
             "image": {
               "src": "images/google-fonts.png",
@@ -604,7 +605,7 @@
           },
           "title3": "SOITTO",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media4": {
             "image": {
               "src": "images/unlimited-websites.png",
@@ -628,7 +629,7 @@
           },
           "title4": "HEI! ME MUUTETAAN",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>Joo.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media5": {
             "image": {
               "active": true,
@@ -747,6 +748,14 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content4-1d",
           "_params": {
             "showHeader": false,
@@ -893,15 +902,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         }
       ]
     },
@@ -980,6 +981,11 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content4-1j",
           "_params": {
             "showHeader": false,
@@ -1126,12 +1132,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         }
       ]
     }
