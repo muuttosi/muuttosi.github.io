@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Hinnat.html",
+    "currentPage": "Muuttoauto.html",
     "versionFirst": "3.9.2",
     "uniqCompNum": 57,
     "versionPublish": "4.6.7",
@@ -547,7 +547,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
               "linkInNewWindow": false,
-              "name": "idea",
+              "name": "delivery",
               "family": "MobiriseIcons",
               "link": "",
               "size": "75",
@@ -555,9 +555,9 @@
               "newWindow": false
             }
           },
-          "title1": "IDEA!",
+          "title1": "AUTO",
           "caption1": "Kun tarvitset sopivan auton muutamista tai muuta kuljetusta varten vuokraa auto edullisesti. Auto toimitettuna ovelle ja se noudetaan sopimuksen mukaan.",
-          "button1": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
@@ -571,7 +571,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
               "linkInNewWindow": false,
-              "name": "delivery",
+              "name": "idea",
               "family": "MobiriseIcons",
               "link": "",
               "size": "75",
@@ -579,9 +579,9 @@
               "active": true
             }
           },
-          "title2": "AUTO",
+          "title2": "IDEA!",
           "caption2": "Mercedes Benz Eco power perälava nostimella,  tilavuudeltaan 35 kuutiota.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media3": {
             "image": {
               "src": "images/google-fonts.png",
@@ -605,7 +605,7 @@
           },
           "title3": "SOITTO",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media4": {
             "image": {
               "src": "images/unlimited-websites.png",
@@ -629,7 +629,7 @@
           },
           "title4": "HEI! ME MUUTETAAN",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>Joo.",
-          "button4": "<a data-app-btn=\"true\" href=\"tel:+358409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "media5": {
             "image": {
               "active": true,
