@@ -389,11 +389,10 @@
               "linkInNewWindow": false,
               "name": "touch",
               "family": "MobiriseIcons",
-              "link": "",
+              "link": "tel:0409605900",
               "size": 0,
               "active": true,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "text1": "<strong>YHTEYSTIEDOT</strong><br>Soita: 040-9605900<br>Sähköposti: <a href=\"mailto:heikki.haaranen@gmail.com\">info@muutosi.fi</a><br>",
