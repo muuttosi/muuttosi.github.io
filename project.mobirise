@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Soita.html",
     "versionFirst": "3.9.2",
     "uniqCompNum": 58,
     "versionPublish": "4.6.7",
@@ -369,7 +369,7 @@
           "_anchor": "contacts1-p",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
