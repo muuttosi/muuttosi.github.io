@@ -1,10 +1,10 @@
 {
   "settings": {
-    "currentPage": "Soita.html",
+    "currentPage": "index.html",
     "versionFirst": "3.9.2",
     "uniqCompNum": 58,
     "versionPublish": "4.6.7",
-    "name": "Vaihtoehto 1",
+    "name": "Vaihtoehto 1-clone",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2017-03-13-at-11.13.16-128x78.png",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -37,9 +37,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#000000"
             },
@@ -63,9 +61,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
@@ -182,9 +180,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
@@ -322,9 +320,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
@@ -472,9 +470,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
@@ -712,9 +710,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
@@ -945,9 +943,9 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
