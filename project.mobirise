@@ -2,13 +2,14 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.6.7",
     "name": "Vaihtoehto 1",
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -133,7 +134,7 @@
           },
           "title": "HELSINKI<br>VANTAA<br>ESPOO<br>KAUNIAINEN",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Hinnat.html\" data-toolbar=\"-mbrBtnMove\">MUUTA. ALK 119€ &nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">SOITA 040-9605900</a>   "
         }
       ]
     },
@@ -228,8 +229,8 @@
             "thirdType": "favorite",
             "fourthType": "orange",
             "fifthType": "hidden",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -514,14 +515,14 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
