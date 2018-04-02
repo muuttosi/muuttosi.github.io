@@ -10,6 +10,9 @@
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#menu-0 .mbr-navbar__section {
+  background: #ffffff;
+}
 #menu-0 .mbr-navbar__hamburger {
   color: #000000;
 }
