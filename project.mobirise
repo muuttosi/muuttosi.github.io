@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 52,
+    "uniqCompNum": 56,
     "name": "SOC&KOM",
     "theme": {
       "name": "mobirise3",
@@ -19,7 +19,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -521,7 +521,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "50",
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -714,10 +714,10 @@
             {
               "authorName": "Abanoub S.",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mese-160x105.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/download-1-160x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -731,10 +731,10 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap&nbsp;</p>",
+              "text": "<p>Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-favicon-156x160.png",
+                  "src": "@PROJECT_PATH@/assets/images/upload-1-160x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -747,7 +747,7 @@
             }
           ],
           "_name": "testimonials3",
-          "_anchor": "testimonials3-1f"
+          "_anchor": "testimonials3-1j"
         }
       ]
     },
