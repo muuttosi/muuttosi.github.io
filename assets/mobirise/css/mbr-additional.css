@@ -686,6 +686,14 @@ h6,
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
 }
+#testimonials3-1f .mbr-section-title {
+  color: #efefef;
+  font-size: 36px;
+}
+#testimonials3-1f .mbr-author-name {
+  color: #ccc;
+}
+
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -751,7 +759,12 @@ h6,
 #contacts1-n P {
   color: #000000;
   font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-n B {
+  color: #7c7c7c;
 }
 #footer1-r P {
   font-size: 20px;
+  color: #ffffff;
 }
