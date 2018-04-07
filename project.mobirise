@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 18,
@@ -289,7 +289,8 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-label": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "24px"
             },
             ".mbr-price-term": {
               "text-align": "center"
@@ -321,13 +322,16 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "16px"
+            },
+            "UL": {
+              "font-size": "16px"
             }
           },
           "_params": {
             "showTitle": false,
             "showSubtitle": false,
-            "firstType": "",
-            "secondType": "",
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
             "thirdType": "bg-primary",
             "fourthType": "bg-primary",
             "paddingTop": "2",
@@ -359,18 +363,18 @@
           ],
           "title": "HINNASTO",
           "subtitle": "",
-          "title1": "TARJOUS 1",
-          "title2": "TARJOUS 2",
-          "title3": "TARJOUS 3",
-          "title4": "TARJOUS 4",
+          "title1": "TARJOUS",
+          "title2": "TARJOUS",
+          "title3": "TARJOUS",
+          "title4": "TARJOUS",
           "subtitle1": "<span style=\"font-style: normal;\">Maanantai-torstai</span>",
           "subtitle2": "<span style=\"font-style: normal;\">Perjantai</span>",
           "subtitle3": "<span style=\"font-style: normal;\">Lauantai-sunnuntai</span><br>",
           "subtitle4": "<span style=\"font-style: normal;\">Kaikki päivät</span><br>",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "",
-          "label4": "HOT!",
+          "label1": "1",
+          "label2": "2",
+          "label3": "3",
+          "label4": "4",
           "currency1": "",
           "currency2": "",
           "currency3": "",
@@ -383,10 +387,10 @@
           "period2": "€",
           "period3": "€",
           "period4": "€",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4 TUNTIA</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Klo. 08:00-22:00 </span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 TUNTIA</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Klo. 08:00-22:00 </span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 TUNTIA</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Klo. 6:00-24:00</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"> välinen aika</span><br></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8 TUNTIA</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Klo. 6:00-24:00</span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>4 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"> välinen aika</span><br></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>8 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-h"
         }
