@@ -3,7 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -665,19 +664,19 @@ h6,
   color: #3d8eb9!important;
 }
 #msg-box5-m H3 {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
   font-family: 'Open Sans', sans-serif;
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box5-m P {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #footer1-f B {
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Slabo 27px', serif;
 }
 
 
@@ -744,9 +743,9 @@ h6,
   color: #3d8eb9!important;
 }
 #footer1-f B {
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Slabo 27px', serif;
 }
 #testimonials3-g .mbr-section-title {
   color: #efefef;

@@ -504,15 +504,15 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-990x563.png",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-989x563.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.5
           },
@@ -538,7 +538,7 @@
             }
           },
           "title": "Mercedes Benz Eco power",
-          "text": "Jämäkkä kuorma-auto korotetulla kopilla.<br>Korkeus 2,25 m<br>Leveys 2,44 ja pituus 5,15 m<br>Kantavuus 3300kg<br>Takalava nostin.",
+          "text": "<b>Jämäkkä kuorma-auto korotetulla kopilla.<br>Korkeus 2,25 m<br>Leveys 2,44 ja pituus 5,15 m<br>Kantavuus 3300kg<br>Takalava nostin.</b><br><b>Kaikki tavarat kerralla!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -547,14 +547,14 @@
           "_anchor": "msg-box5-m",
           "_styles": {
             "H3": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           }
@@ -580,10 +580,10 @@
           "_anchor": "footer1-f",
           "_styles": {
             "B": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "color": "#000000",
+              "font-size": "25px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         }
@@ -708,10 +708,10 @@
           "_anchor": "footer1-f",
           "_styles": {
             "B": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "color": "#000000",
+              "font-size": "25px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         },
