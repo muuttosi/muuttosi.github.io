@@ -496,34 +496,6 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<b>TÄSSÄ ON IDEAA</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-f",
-          "_styles": {
-            "B": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -532,7 +504,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1441x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-990x563.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -540,7 +512,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.5
           },
@@ -575,7 +547,7 @@
           "_anchor": "msg-box5-m",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "left",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -584,6 +556,34 @@
             "P": {
               "color": "#ffffff",
               "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>TÄSSÄ ON IDEAA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_styles": {
+            "B": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         }
