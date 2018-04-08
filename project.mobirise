@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 18,
+    "uniqCompNum": 23,
     "name": "ONE",
     "theme": {
       "name": "mobirise3",
@@ -502,7 +502,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -515,8 +515,75 @@
           "_anchor": "footer1-f",
           "_styles": {
             "B": {
-              "color": "#efefef",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1441x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mese-800x525.jpg-1-800x524.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Mercedes Benz Eco power",
+          "text": "Jämäkkä kuorma-auto korotetulla kopilla.<br>Korkeus 2,25 m<br>Leveys 2,44 ja pituus 5,15 m<br>Kantavuus 3300kg<br>Takalava nostin.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-m",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           }
         }
@@ -628,7 +695,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -641,8 +708,10 @@
           "_anchor": "footer1-f",
           "_styles": {
             "B": {
-              "color": "#efefef",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         },
