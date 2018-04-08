@@ -1,10 +1,10 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 23,
-    "name": "ONE",
+    "uniqCompNum": 60,
+    "name": "SOC&KOM",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -13,11 +13,11 @@
         "secondaryColor": "#ffffff",
         "successColor": "#ea0025",
         "infoColor": "#3d8eb9",
-        "warningColor": "#f3c649",
+        "warningColor": "#00a885",
         "dangerColor": "#000000",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
-        "textFont": "Open Sans",
+        "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -25,7 +25,9 @@
       },
       "additionalSetColors": [
         "#ea0025",
-        "#003e51"
+        "#003e51",
+        "#222222",
+        "#7c7c7c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -134,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TIETOA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
         },
         {
           "_tags": [
@@ -145,8 +147,7 @@
             ".mbr-section-title": {
               "font-size": "46px",
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#ffffff"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "header1-1",
@@ -157,7 +158,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/helsinkimarina-2000x1125-74-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/helsinkimarina-2000x1125-73-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -166,7 +167,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "HELSINKI<br>VANTAA<br>KAUNIAINEN<br>ESPOO",
@@ -178,7 +179,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Tarjoukset",
+        "title": "Hinnat",
         "order": 1
       },
       "components": [
@@ -271,7 +272,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TIETOA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
         },
         {
           "_inherit": "pricing-table1",
@@ -338,7 +339,7 @@
             "paddingBottom": "0",
             "showButtons": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/highway-in-fredhall-stockholm-2000x1333.jpg",
+            "bgImage": "file:///Users/Air/Desktop/ONE//assets/images/highway-in-fredhall-stockholm-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -392,7 +393,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"> välinen aika</span><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>8 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-h"
+          "_anchor": "pricing-table2-1k"
         }
       ]
     },
@@ -418,7 +419,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TIETOA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -544,7 +545,6 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-m",
           "_styles": {
             "H3": {
               "color": "#000000",
@@ -557,42 +557,205 @@
               "color": "#000000",
               "text-align": "left"
             }
-          }
+          },
+          "_anchor": "msg-box5-1l"
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>TÄSSÄ ON IDEAA</b>",
+          "text": "Tässä on ideaa!",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-f",
-          "_styles": {
-            "B": {
-              "color": "#000000",
-              "font-size": "25px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "_anchor": "footer1-1m"
         }
       ]
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Info",
+        "meta_descr": "Web Page Generator Description",
+        "title": "Tietoa",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TIETOA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "40",
+              "active": true,
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "36px"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/kenkien_kuljetus-1887x1276.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "TIETOA",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p>Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mese-2-800x525.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p>Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-1n"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Yhteystiedot",
         "order": 3
       },
       "components": [
@@ -611,7 +774,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">TIETOA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -689,107 +852,77 @@
         },
         {
           "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "link": "tel:0409605900",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>Yhteystiedot</b><br><br>Soita: <a href=\"tel:0409605900\" class=\"text-danger\">040-960 5900</a><br>Sähköposti:<br>asiakaspalvelu@muuttoosi.fi<br>Osoite:<br>Fabianinkatu 5<br>00130 Helsinki",
+          "text2": "",
+          "text3": "<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-n",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#003e51",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>TÄSSÄ ON IDEAA</b>",
+          "text": "Tässä on ideaa!",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-f",
+          "_anchor": "footer1-r",
           "_styles": {
-            "B": {
-              "color": "#000000",
-              "font-size": "25px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            "P": {
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           }
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-size": "36px"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": "2",
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/Air/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-03-29_170907/assets/images/kenkien_kuljetus-1887x1276.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "INFO",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p><span style=\"font-style: normal;\">Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></span></p>",
-              "media": {
-                "image": {
-                  "src": "file:///Users/Air/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-03-29_170907/assets/images/mese-2-800x525.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p><span style=\"font-style: normal;\">Kenelle ja miksi yhteinen huuto.net kuljetus&nbsp;<span style=\"font-size: 1.125rem;\">Kun sinulla ei ole itselläsi autoa jolla kuljettaa ostamaasi tuotetta tai mahdollisuutta muuten noutaa tai kantaa sitä.Yhteinen kuljetus on edullinen ja vaivaton tapa hoitaa ostamasi tuote, se säästää aikaa, voit pelkällä puhelinsoitolla hoitaa kuljetuksen eikä sinun tarvitse huolehtia mahdollisen vuokra-auton palautuksista, polttoaine kuluista tai vakuutuksista.</span></span></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-g"
         }
       ]
     }
