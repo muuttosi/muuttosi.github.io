@@ -730,7 +730,7 @@ h6,
 }
 #ext_menu-e .link[aria-expanded="true"],
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #789da0!important;
 }
 #features2-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
@@ -748,5 +748,85 @@ h6,
   color: #475577;
 }
 #features2-q .mbr-cards-col:nth-child(odd) .card-title {
+  color: #ffffff;
+}
+#ext_menu-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-r .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#ext_menu-r .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-r .close-icon::before,
+#ext_menu-r .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-r .link,
+#ext_menu-r .dropdown-item {
+  color: #000000;
+}
+#ext_menu-r .link {
+  font-size: 1.15rem;
+}
+#ext_menu-r .dropdown-item,
+#ext_menu-r .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#ext_menu-r .link:hover,
+#ext_menu-r .dropdown-item:hover,
+#ext_menu-r .link:focus,
+#ext_menu-r .dropdown-item:focus {
+  color: #789da0;
+}
+#ext_menu-r .link[aria-expanded="true"],
+#ext_menu-r .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-r .nav-dropdown-sm .link:focus,
+#ext_menu-r .nav-dropdown-sm .link:hover,
+#ext_menu-r .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-r .navbar,
+#ext_menu-r .nav-dropdown-sm,
+#ext_menu-r .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-r .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-r .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-r .bg-color.transparent.opened .link:hover,
+#ext_menu-r .bg-color.transparent.opened .link:focus {
+  color: #789da0;
+}
+#ext_menu-r .link[aria-expanded="true"],
+#ext_menu-r .dropdown-item[aria-expanded="true"] {
+  color: #789da0!important;
+}
+#features2-y .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #7e9b9f;
+}
+#features2-y .mbr-cards-col:nth-child(even) .card-text {
+  text-align: center;
+  color: #475577;
+  font-size: 18px;
+}
+#features2-y .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: center;
+  font-size: 18px;
+}
+#features2-y .mbr-cards-col:nth-child(even) .card-title {
+  color: #475577;
+}
+#features2-y .mbr-cards-col:nth-child(odd) .card-title {
   color: #ffffff;
 }
