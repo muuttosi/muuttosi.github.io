@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 35,
@@ -329,6 +329,10 @@
             },
             "UL": {
               "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_params": {
@@ -340,7 +344,7 @@
             "fourthType": "bg-primary",
             "paddingTop": "2",
             "paddingBottom": "0",
-            "showButtons": false,
+            "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/highway-in-fredhall-stockholm-2000x1333.jpg",
             "parallax": true,
@@ -357,7 +361,7 @@
           "description1": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span>",
           "description2": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
           "description3": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
-          "description4": "<span style=\"font-style: normal;\">MYÖS KUUKAUDEN VAIHDE</span>",
+          "description4": "<span style=\"font-style: normal;\">KAIKKI PÄIVÄT</span>",
           "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "button4": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "button3": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
