@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 27,
@@ -175,7 +175,7 @@
           },
           "title": "HELSINKI<br>VANTAA<br>KAUNIAINEN<br>ESPOO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MUUTA ALK. 119€&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">PUH 040-9605900</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MUUTA ALK. 119€&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">PUH 040-9605900</a> "
         }
       ]
     },
@@ -237,7 +237,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#789da0!important"
             }
           },
           "_name": "ext.menu",
@@ -505,7 +505,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "49",
+            "imageSize": "54",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
@@ -557,7 +557,9 @@
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "21px"
+              "font-size": "24px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         }

@@ -545,7 +545,7 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #789da0!important;
 }
 #pricing-table2-h .mbr-plan-header,
 #pricing-table2-h .mbr-plan-body {
@@ -598,6 +598,7 @@ h6,
 #pricing-table2-h UL {
   font-size: 16px;
 }
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -666,7 +667,8 @@ h6,
 }
 #msg-box4-n P {
   color: #ffffff;
-  font-size: 21px;
+  font-size: 24px;
+  font-family: 'Slabo 27px', serif;
 }
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
