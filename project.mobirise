@@ -1,23 +1,23 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 67,
-    "name": "SOC&KOM-clone",
+    "uniqCompNum": 27,
+    "name": "ONE",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3d8eb9",
+        "primaryColor": "#7e9b9f",
         "secondaryColor": "#ffffff",
         "successColor": "#ea0025",
         "infoColor": "#3d8eb9",
-        "warningColor": "#00a885",
-        "dangerColor": "#3d8eb9",
+        "warningColor": "#f3c649",
+        "dangerColor": "#000000",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -26,9 +26,9 @@
       "additionalSetColors": [
         "#ea0025",
         "#003e51",
-        "#222222",
-        "#7c7c7c",
-        "#789da0"
+        "#2e2e2e",
+        "#232323",
+        "#218ebc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -68,9 +68,7 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -110,16 +108,12 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "1.15",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
+            "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -143,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
         },
         {
           "_tags": [
@@ -154,7 +148,8 @@
             ".mbr-section-title": {
               "font-size": "46px",
               "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
@@ -165,7 +160,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/helsinkimarina-2000x1125-73-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/helsinkimarina-2000x1125-74-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -174,7 +169,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "title": "HELSINKI<br>VANTAA<br>KAUNIAINEN<br>ESPOO",
@@ -186,7 +181,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Hinnat",
+        "title": "Tarjoukset",
         "order": 1
       },
       "components": [
@@ -210,9 +205,7 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -252,16 +245,12 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "1.15",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
+            "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -285,7 +274,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>"
         },
         {
           "_inherit": "pricing-table1",
@@ -321,7 +310,7 @@
               "font-size": "22px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".mbr-plan-subtitle": {
               "font-size": "16px",
@@ -352,7 +341,7 @@
             "paddingBottom": "0",
             "showButtons": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/Air/Desktop/ONE//assets/images/highway-in-fredhall-stockholm-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/highway-in-fredhall-stockholm-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -406,15 +395,15 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"> välinen aika</span><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>8 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-1q"
+          "_anchor": "pricing-table2-h"
         }
       ]
     },
-    "page3.html": {
+    "page2.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
-        "title": "Tietoa",
-        "order": 3
+        "meta_descr": "Web Page Builder Description",
+        "title": "Auto",
+        "order": 2
       },
       "components": [
         {
@@ -423,20 +412,16 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "1.15",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
+            "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -455,9 +440,169 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "40",
+              "active": true,
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bird-s-eye-view-forest-green-113338-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mese-1-800x525.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Mercedes Benz <br>Eco power",
+          "text": "<p>Jämäkkä kuorma-auto korotetulla kopilla.<br>Korkeus 2,25 m<br>Leveys 2,44 ja pituus 5,15 m<br>Kantavuus 3300kg<br>Takalava nostin.<br>Kaikki tavarat kerralla!<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-n",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "19px"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Info",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUKSET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -512,7 +657,7 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-d"
+          "_anchor": "ext_menu-e"
         },
         {
           "_inherit": "features1",
@@ -523,19 +668,20 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": "95"
             }
           },
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "idea",
+              "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": "95",
+              "color": "#fac51c"
             }
           },
           "media3": {
@@ -595,7 +741,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -604,12 +750,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Bootstrap 4",
+          "title1": "OHJEET",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kun tarvitset sopivan auton muutamista tai muuta kuljetusta varten vuokraa auto edullisesti.<br>Auto toimitettuna ovelle ja se noudetaan sopimuksen mukaan.<br>",
-          "title2": "Responsive",
-          "subtitle2": "",
-          "caption2": "Muuttosi.fi sivusto ei ole<br>muuttofirma eikä myöskään kuljetusliike. Sivusto on yksityinen kuten myös auto jota vuokrataan.",
+          "caption1": "Kun tarvitset sopivan auton muutamista tai <br>muuta kuljetusta varten, vuokraa auto edullisesti.<br>Auto toimitetaan ovelle ja se noudetaan sopimuksen mukaan.",
+          "title2": "TIETOA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Muuttosi.fi sivusto ei ole muuttofirma, <br>eikä myöskään kuljetusliike. <br>Sivusto on yksityinen kuten myös auto <br>jota vuokrataan.<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -629,356 +775,24 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features2",
-          "_anchor": "features2-1o",
+          "_anchor": "features2-q",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#7e9b9f"
-            }
-          }
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "Yhteystiedot",
-        "order": 4
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1.15",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "center",
+              "color": "#475577",
+              "font-size": "18px"
             },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center",
+              "font-size": "18px"
             },
-            ".navbar-toggler": {
-              "color": "#000000"
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#475577"
             },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": "40",
-              "active": true,
-              "color": "#000000",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-e"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "touch",
-              "family": "MobiriseIcons",
-              "link": "tel:0409605900",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<b>Yhteystiedot</b><br><br>Soita: <a href=\"tel:0409605900\" class=\"text-danger\">040-960 5900</a><br>Sähköposti:<br>asiakaspalvelu@muuttoosi.fi<br>Osoite:<br>Fabianinkatu 5<br>00130 Helsinki",
-          "text2": "",
-          "text3": "<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-n",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "16px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "B": {
-              "color": "#7c7c7c"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#475577",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Tässä on ideaa!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-r",
-          "_styles": {
-            "P": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          }
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Auto",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1.15",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": "40",
-              "active": true,
-              "color": "#000000",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TARJOUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">AUTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">YHTEYSTIEDOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA 040-960 5900</a></li>",
-          "_anchor": "ext_menu-1s"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "44",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bird-s-eye-view-forest-green-113339-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mese-800x525.jpg-1-800x524.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Mercedes Benz Eco power",
-          "text": "Jämäkkä kuorma-auto korotetulla kopilla.<br>Korkeus 2,25 <br>leveys 2,44 ja pituus 5,15<br>Kantavuus 3300 kg<br>Perälavanostin<br>Kaikki tavarat kerralla",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1u",
-          "_styles": {
-            "H3": {
-              "color": "#efefef",
-              "font-size": "46px"
-            },
-            "P": {
+            ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#ffffff"
             }
           }
