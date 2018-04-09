@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 27,
@@ -9,7 +9,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#7e9b9f",
+        "primaryColor": "#789da0",
         "secondaryColor": "#ffffff",
         "successColor": "#ea0025",
         "infoColor": "#3d8eb9",
@@ -28,7 +28,8 @@
         "#003e51",
         "#2e2e2e",
         "#232323",
-        "#218ebc"
+        "#218ebc",
+        "#789da0"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -99,7 +100,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#789da0!important"
             }
           },
           "_name": "ext.menu",
@@ -174,7 +175,7 @@
           },
           "title": "HELSINKI<br>VANTAA<br>KAUNIAINEN<br>ESPOO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MUUTA ALK. 119€&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">PUH 040-9605900</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MUUTA ALK. 119€&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:0409605900\" data-toolbar=\"-mbrBtnMove\">PUH 040-9605900</a> "
         }
       ]
     },
@@ -471,7 +472,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#789da0!important"
             }
           },
           "logo": {
@@ -504,7 +505,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "49",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
@@ -551,11 +552,12 @@
           "_anchor": "msg-box4-n",
           "_styles": {
             "H3": {
-              "color": "#fac51c"
+              "color": "#efefef",
+              "font-size": "36px"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "19px"
+              "font-size": "21px"
             }
           }
         }
