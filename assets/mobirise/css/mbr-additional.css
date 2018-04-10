@@ -411,9 +411,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #789da0;
 }
-.scrollToTop_wraper {
-  display: none;
-}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -433,11 +430,11 @@ h6,
   color: #000000;
 }
 #ext_menu-0 .link {
-  font-size: 1.15rem;
+  font-size: 1.4rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.516rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -505,11 +502,11 @@ h6,
   color: #000000;
 }
 #ext_menu-2 .link {
-  font-size: 1.15rem;
+  font-size: 1.35rem;
 }
 #ext_menu-2 .dropdown-item,
 #ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.462rem;
 }
 #ext_menu-2 .link:hover,
 #ext_menu-2 .dropdown-item:hover,
@@ -622,11 +619,11 @@ h6,
   color: #000000;
 }
 #ext_menu-3 .link {
-  font-size: 1.15rem;
+  font-size: 1.4rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.516rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -693,11 +690,11 @@ h6,
   color: #000000;
 }
 #ext_menu-e .link {
-  font-size: 1.15rem;
+  font-size: 1.35rem;
 }
 #ext_menu-e .dropdown-item,
 #ext_menu-e .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.462rem;
 }
 #ext_menu-e .link:hover,
 #ext_menu-e .dropdown-item:hover,
@@ -773,11 +770,11 @@ h6,
   color: #000000;
 }
 #ext_menu-r .link {
-  font-size: 1.15rem;
+  font-size: 1.35rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.462rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
