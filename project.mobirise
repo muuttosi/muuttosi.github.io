@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 39,
@@ -161,8 +161,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "46px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#ffffff"
             }
           },
