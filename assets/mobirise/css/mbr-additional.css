@@ -1,8 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
+
+
 
 
 
@@ -417,6 +419,7 @@ h6,
 #ext_menu-0 .navbar-caption {
   color: #ffffff;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-0 .navbar-toggler {
   color: #000000;
@@ -428,13 +431,14 @@ h6,
 #ext_menu-0 .link,
 #ext_menu-0 .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.300rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -473,11 +477,18 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #789da0!important;
 }
+#ext_menu-0 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
 #header1-1 .mbr-section-title {
   font-size: 46px;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Open Sans', sans-serif;
   color: #ffffff;
 }
+
+
+
 
 
 
@@ -489,6 +500,7 @@ h6,
 #ext_menu-2 .navbar-caption {
   color: #ffffff;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-2 .navbar-toggler {
   color: #000000;
@@ -500,13 +512,14 @@ h6,
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-2 .link {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
 }
 #ext_menu-2 .dropdown-item,
 #ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 1.300rem;
 }
 #ext_menu-2 .link:hover,
 #ext_menu-2 .dropdown-item:hover,
@@ -544,6 +557,10 @@ h6,
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #789da0!important;
+}
+#ext_menu-2 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 #pricing-table2-h .mbr-plan-header,
 #pricing-table2-h .mbr-plan-body {
@@ -600,12 +617,17 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 
+
+
+
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-3 .navbar-caption {
   color: #ffffff;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-3 .navbar-toggler {
   color: #000000;
@@ -617,13 +639,14 @@ h6,
 #ext_menu-3 .link,
 #ext_menu-3 .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-3 .link {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.300rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -662,21 +685,39 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #789da0!important;
 }
-#msg-box4-n H3 {
+#ext_menu-3 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#features1-12 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #7e9b9f;
+}
+#features1-12 .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Open Sans', sans-serif;
+  color: #7e9b9f;
+  text-align: left;
+}
+#features1-12 .mbr-cards-col:nth-child(odd) .card-title {
   color: #fac51c;
-  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
 }
-#msg-box4-n P {
-  color: #ffffff;
-  font-size: 24px;
-  font-family: 'Slabo 27px', serif;
+#features1-12 .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
 }
+#features1-12 .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+}
+
+
+
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-e .navbar-caption {
   color: #ffffff;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-e .navbar-toggler {
   color: #000000;
@@ -688,13 +729,14 @@ h6,
 #ext_menu-e .link,
 #ext_menu-e .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-e .link {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
 }
 #ext_menu-e .dropdown-item,
 #ext_menu-e .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 1.300rem;
 }
 #ext_menu-e .link:hover,
 #ext_menu-e .dropdown-item:hover,
@@ -733,16 +775,20 @@ h6,
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
   color: #789da0!important;
 }
+#ext_menu-e .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
 #features2-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
 }
 #features2-q .mbr-cards-col:nth-child(even) .card-text {
-  text-align: center;
+  text-align: left;
   color: #475577;
   font-size: 18px;
 }
 #features2-q .mbr-cards-col:nth-child(odd) .card-text {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #features2-q .mbr-cards-col:nth-child(even) .card-title {
@@ -750,13 +796,18 @@ h6,
 }
 #features2-q .mbr-cards-col:nth-child(odd) .card-title {
   color: #ffffff;
+  text-align: center;
 }
+
+
+
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-r .navbar-caption {
   color: #ffffff;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-r .navbar-toggler {
   color: #000000;
@@ -768,13 +819,14 @@ h6,
 #ext_menu-r .link,
 #ext_menu-r .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-r .link {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 1.300rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
@@ -812,6 +864,10 @@ h6,
 #ext_menu-r .link[aria-expanded="true"],
 #ext_menu-r .dropdown-item[aria-expanded="true"] {
   color: #789da0!important;
+}
+#ext_menu-r .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 #features2-y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;

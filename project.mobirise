@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 35,
+    "uniqCompNum": 39,
     "name": "ONE-clone",
     "theme": {
       "name": "mobirise3",
@@ -60,7 +60,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -69,13 +71,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -101,6 +105,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#789da0!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           },
           "_name": "ext.menu",
@@ -113,8 +122,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.4",
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -138,7 +151,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Aloitus</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_tags": [
@@ -148,8 +161,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "46px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#ffffff"
             }
           },
@@ -197,7 +210,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -206,13 +221,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -238,6 +255,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#789da0!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           },
           "_name": "ext.menu",
@@ -250,8 +272,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.35",
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -275,7 +301,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Aloitus</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_inherit": "pricing-table1",
@@ -421,12 +447,16 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.4",
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Aloitus</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -436,7 +466,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -445,13 +477,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -477,6 +511,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#789da0!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -503,67 +542,136 @@
           "_anchor": "ext_menu-3"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "53",
+            "columnsColor": "#7e9b9f",
             "paddingTop": "3",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bird-s-eye-view-forest-green-113338-2000x1333.jpg",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media": {
+          "media1": {
             "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mese-1-800x525.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mese2-2-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
+              "title": ""
             }
           },
-          "title": "<br>Mercedes Benz <br>Eco power",
-          "text": "Kuorma-auto korotetulla kopilla<br>Umpikorin mitat ja kantavuus<br>Korkeus 2,25m&nbsp;<br>Leveys 2,44 ja pituus 5,15m<br>Kantavuus 3300kg<br>Perälava nostin<br>Kaikki tavarat kerralla kyytiin.",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/unknown-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bird-s-eye-view-forest-green-113339-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Mercedes Benz Eco power",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Kuorma-auto korotetulla kopilla<br>Umpikorin mitat ja kantavuus<br>Korkeus 2,25m Leveys 2,44 ja pituus 5,15m<br>Kantavuus 3300kg Perälava nostin",
+          "title2": "Kaikki tavarat kerralla kyytiin.",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-n",
+          "_name": "features1",
+          "_anchor": "features1-12",
           "_styles": {
-            "H3": {
-              "color": "#fac51c",
-              "font-size": "36px"
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7e9b9f"
             },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "24px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#7e9b9f",
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#fac51c",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
             }
           }
         }
@@ -586,12 +694,16 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.35",
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Aloitus</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -601,7 +713,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -610,13 +724,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -642,6 +758,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#789da0!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -673,18 +794,18 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "delivery",
+              "name": "cust-feedback",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": "95"
+              "size": "80"
             }
           },
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "delivery",
+              "name": "idea",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -761,7 +882,7 @@
           },
           "title1": "OHJEET",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kun tarvitset sopivan auton muutamista tai muuta <br>kuljetusta varten, <br>vuokraa auto edullisesti.<br>Auto toimitetaan ovelle ja se noudetaan sovitusta<br> paikasta.",
+          "caption1": "Kun tarvitset sopivan auton<br>muutamista tai muuta <br>kuljetusta varten, <br>vuokraa auto edullisesti.<br>Auto toimitetaan ovelle ja se noudetaan sovitusta<br> paikasta.",
           "title2": "TIETOA",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Muuttosi.fi sivusto ei ole muuttofirma, <br>eikä myöskään kuljetusliike. <br>Sivusto on yksityinen kuten myös auto jota vuokrataan.<br>",
@@ -790,19 +911,20 @@
               "background-color": "#7e9b9f"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#475577",
               "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#475577"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         }
@@ -826,7 +948,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -835,13 +959,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -867,6 +993,11 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#789da0!important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           },
           "_name": "ext.menu",
@@ -878,8 +1009,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.35",
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -903,7 +1038,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Aloitus</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_anchor": "ext_menu-r"
         },
         {
