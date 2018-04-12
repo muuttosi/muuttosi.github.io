@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 43,
@@ -151,7 +151,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_tags": [
@@ -272,7 +272,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -301,7 +301,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_inherit": "pricing-table1",
@@ -448,7 +448,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -457,7 +457,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -483,10 +483,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -696,7 +696,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -705,7 +705,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -967,10 +967,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1012,7 +1012,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1041,7 +1041,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_anchor": "ext_menu-r"
         },
         {
@@ -1064,7 +1064,7 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "mailto:asiakaspalvelu@muuttosi.fi",
               "size": "70",
               "color": "#fac51c"
             }
@@ -1157,7 +1157,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:asiakaspalvelu@muuttosi.fi\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">POSTI</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.fi/maps/place/Fabianinkatu+5,+00130+Helsinki/@60.1638231,24.9495607,16z/data=!4m5!3m4!1s0x46920bc89138da2b:0xd139c53e5d3705e4!8m2!3d60.1639459!4d24.9500541\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">KARTTA</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.fi/maps/place/Fabianinkatu+5,+00130+Helsinki/@60.1638231,24.9495607,16z/data=!4m5!3m4!1s0x46920bc89138da2b:0xd139c53e5d3705e4!8m2!3d60.1639459!4d24.9500541\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KARTTA</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1265,7 +1265,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1294,7 +1294,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_anchor": "ext_menu-13"
         },
         {
