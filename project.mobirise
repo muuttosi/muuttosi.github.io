@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 43,
@@ -625,10 +625,10 @@
           },
           "title1": "Mercedes Benz Eco power",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kuorma-auto korotetulla kopilla.<br>Umpikorin mitat ja kantavuus,<br>Korkeus 2,25m, Leveys 2,44, ja pituus 5,15m.<br>Kantavuus 3300kg, perälava nostin.",
+          "caption1": "Kuorma-auto korotetulla kopilla.<br>Umpikorin mitat ja kantavuus.<br>Korkeus 2,25m, leveys 2,44, ja pituus 5,15m.<br>Kantavuus 3300kg, perälava nostin.",
           "title2": "Kaikki tavarat kerralla kyytiin.",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Aikaa ja voimavaroja säästyy kun kaikki tavarat mahtuvat<br>yhdellä kerralla mukaan.<br>Auton lastaamisessa annetaan nauvoja.",
+          "caption2": "Aikaa ja voimavaroja säästyy kun kaikki tavarat mahtuvat<br>yhdellä kerralla mukaan.<br>Auton lastaamiseen annetaan nauvoja.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -1315,7 +1315,7 @@
             },
             "B": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -1368,7 +1368,7 @@
             }
           },
           "title": "eXpress",
-          "text": "<b>24H/7<br>KIIREELLISISSÄ TAPAUKSISSA<br><b style=\"font-style: normal;\">SOITA! 040-9605900</b></b><b><br></b>",
+          "text": "<b>24H/7<br>KIIREELLISISSÄ TAPAUKSISSA<br><b style=\"font-style: normal;\">SOITA! 040-960 5900</b></b><b><br></b>",
           "_tags": [
             "Theme"
           ],
