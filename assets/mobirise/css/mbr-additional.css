@@ -888,3 +888,85 @@ h6,
 #features2-y .mbr-cards-col:nth-child(odd) .card-title {
   color: #ffffff;
 }
+
+
+
+#ext_menu-13 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-13 .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-13 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-13 .close-icon::before,
+#ext_menu-13 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-13 .link,
+#ext_menu-13 .dropdown-item {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-13 .link {
+  font-size: 1.2rem;
+}
+#ext_menu-13 .dropdown-item,
+#ext_menu-13 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#ext_menu-13 .link:hover,
+#ext_menu-13 .dropdown-item:hover,
+#ext_menu-13 .link:focus,
+#ext_menu-13 .dropdown-item:focus {
+  color: #789da0;
+}
+#ext_menu-13 .link[aria-expanded="true"],
+#ext_menu-13 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-13 .nav-dropdown-sm .link:focus,
+#ext_menu-13 .nav-dropdown-sm .link:hover,
+#ext_menu-13 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-13 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-13 .navbar,
+#ext_menu-13 .nav-dropdown-sm,
+#ext_menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-13 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-13 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-13 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-13 .bg-color.transparent.opened .link:hover,
+#ext_menu-13 .bg-color.transparent.opened .link:focus {
+  color: #789da0;
+}
+#ext_menu-13 .link[aria-expanded="true"],
+#ext_menu-13 .dropdown-item[aria-expanded="true"] {
+  color: #789da0!important;
+}
+#ext_menu-13 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#msg-box6-14 .mbr-section-title,
+#msg-box6-14 .lead p {
+  color: #fff;
+}
+#msg-box6-14 H3 {
+  text-align: center;
+}
+#msg-box6-14 P {
+  text-align: center;
+  color: #475577;
+}
