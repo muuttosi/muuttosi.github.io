@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 43,
@@ -1154,7 +1154,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"mailto:heikki.haaranen@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">POSTI</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:asiakaspalvelu@muuttosi.fi\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">POSTI</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
