@@ -516,11 +516,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-2 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-2 .dropdown-item,
 #ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-2 .link:hover,
 #ext_menu-2 .dropdown-item:hover,
@@ -561,7 +561,7 @@ h6,
 }
 #ext_menu-2 .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 #pricing-table2-h .mbr-plan-header,
 #pricing-table2-h .mbr-plan-body {
@@ -613,6 +613,7 @@ h6,
 }
 #pricing-table2-h UL {
   font-size: 16px;
+  color: #000000;
 }
 #pricing-table2-h .btn {
   font-family: 'Open Sans', sans-serif;
@@ -643,11 +644,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-3 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -688,7 +689,7 @@ h6,
 }
 #ext_menu-3 .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 #features1-12 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
@@ -705,6 +706,7 @@ h6,
 }
 #features1-12 .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
+  color: #7e9b9f;
 }
 #features1-12 .mbr-cards-col:nth-child(odd) .card-text {
   text-align: left;
@@ -733,11 +735,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-e .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-e .dropdown-item,
 #ext_menu-e .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-e .link:hover,
 #ext_menu-e .dropdown-item:hover,
@@ -778,19 +780,19 @@ h6,
 }
 #ext_menu-e .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 #features2-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
 }
 #features2-q .mbr-cards-col:nth-child(even) .card-text {
-  text-align: left;
+  text-align: center;
   color: #475577;
   font-size: 18px;
 }
 #features2-q .mbr-cards-col:nth-child(odd) .card-text {
-  text-align: left;
-  font-size: 18px;
+  text-align: center;
+  font-size: 17px;
 }
 #features2-q .mbr-cards-col:nth-child(even) .card-title {
   color: #475577;
@@ -823,11 +825,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-r .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
@@ -868,7 +870,7 @@ h6,
 }
 #ext_menu-r .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 #features2-y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
@@ -888,6 +890,7 @@ h6,
 #features2-y .mbr-cards-col:nth-child(odd) .card-title {
   color: #ffffff;
 }
+
 
 
 
@@ -912,11 +915,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-13 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-13 .dropdown-item,
 #ext_menu-13 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-13 .link:hover,
 #ext_menu-13 .dropdown-item:hover,
@@ -957,7 +960,7 @@ h6,
 }
 #ext_menu-13 .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 #msg-box6-14 .mbr-section-title,
 #msg-box6-14 .lead p {
@@ -965,8 +968,14 @@ h6,
 }
 #msg-box6-14 H3 {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
 }
 #msg-box6-14 P {
   text-align: center;
   color: #475577;
+}
+#msg-box6-14 B {
+  color: #ffffff;
+  font-size: 18px;
 }

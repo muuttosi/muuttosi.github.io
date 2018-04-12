@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 43,
@@ -151,7 +151,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_tags": [
@@ -226,10 +226,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -259,7 +259,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_name": "ext.menu",
@@ -272,7 +272,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -294,14 +294,14 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "40",
+              "size": "",
               "active": true,
               "color": "#000000",
               "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>"
         },
         {
           "_inherit": "pricing-table1",
@@ -354,7 +354,8 @@
               "font-size": "16px"
             },
             "UL": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#000000"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -388,10 +389,10 @@
           "description2": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
           "description3": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
           "description4": "<span style=\"font-style: normal;\">KAIKKI PÄIVÄT</span>",
-          "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
           "_tags": [
             "Theme"
           ],
@@ -421,10 +422,10 @@
           "period2": "€",
           "period3": "€",
           "period4": "€",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>4 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"> välinen aika</span><br></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>8 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">välinen aika</span><br></li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\">Välinen aika</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 08:00-22:00 </b></span></li><li class=\"list-group-item\">Välinen aika</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>6 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\">Välinen aika</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>8 TUNTIA</b></li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\"><b>Klo. 6:00-24:00</b></span></li><li class=\"list-group-item\">Välinen aika</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-h"
         }
@@ -447,7 +448,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -456,7 +457,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -482,10 +483,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -515,7 +516,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "logo": {
@@ -531,7 +532,7 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "40",
+              "size": "",
               "active": true,
               "color": "#000000",
               "newWindow": false
@@ -624,10 +625,10 @@
           },
           "title1": "Mercedes Benz Eco power",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kuorma-auto korotetulla kopilla<br>Umpikorin mitat ja kantavuus<br>Korkeus 2,25m Leveys 2,44 ja pituus 5,15m<br>Kantavuus 3300kg Perälava nostin",
+          "caption1": "Kuorma-auto korotetulla kopilla.<br>Umpikorin mitat ja kantavuus,<br>Korkeus 2,25m, Leveys 2,44, ja pituus 5,15m.<br>Kantavuus 3300kg, perälava nostin.",
           "title2": "Kaikki tavarat kerralla kyytiin.",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Aikaa ja voimavaroja säästyy kun kaikki tavarat mahtuvat<br>yhdellä kerralla mukaan.<br>Auton lastaamisessa annetaan nauvoja.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -668,7 +669,8 @@
               "text-align": "left"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#7e9b9f"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "text-align": "left"
@@ -694,7 +696,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -703,7 +705,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -729,10 +731,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -762,7 +764,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "logo": {
@@ -778,7 +780,7 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "40",
+              "size": "",
               "active": true,
               "color": "#000000",
               "newWindow": false
@@ -883,7 +885,7 @@
           },
           "title1": "OHJEET",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kun tarvitset sopivan auton<br>muutamista tai muuta <br>kuljetusta varten, <br>vuokraa auto edullisesti.<br>Auto toimitetaan ovelle ja se noudetaan sovitusta<br> paikasta.",
+          "caption1": "Kun tarvitset sopivan auton muutamista <br>tai muuta kuljetusta varten, <br>soita ja vuokraa auto edullisesti.<br>Auto toimitetaan ovelle ja se noudetaan sovitusta paikasta. Muuton hoidat itse.<br>",
           "title2": "TIETOA",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Muuttosi.fi sivusto ei ole muuttofirma, <br>eikä myöskään kuljetusliike. <br>Sivusto on yksityinen kuten myös auto jota vuokrataan.<br>",
@@ -912,13 +914,13 @@
               "background-color": "#7e9b9f"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#475577",
               "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "left",
-              "font-size": "18px"
+              "text-align": "center",
+              "font-size": "17px"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#475577"
@@ -965,10 +967,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -998,7 +1000,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_name": "ext.menu",
@@ -1010,7 +1012,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1032,14 +1034,14 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "40",
+              "size": "",
               "active": true,
               "color": "#000000",
               "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_anchor": "ext_menu-r"
         },
         {
@@ -1052,7 +1054,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "tel:0409605900",
-              "size": "95"
+              "size": "70"
             }
           },
           "media2": {
@@ -1063,7 +1065,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": "90",
+              "size": "70",
               "color": "#fac51c"
             }
           },
@@ -1071,11 +1073,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "home",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": "79",
+              "size": "70",
               "color": "#fac51c"
             }
           },
@@ -1137,7 +1139,7 @@
           },
           "title1": "SOITA",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>Puh. 040-960 5900<br><br>",
+          "caption1": "<br><a href=\"tel:0409605900\" class=\"text-white\">Puh. 040-960 5900</a><br><br>",
           "title2": "SÄHKÖPOSTI",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<br>asiakaspalvelu@Muuttosi.fi&nbsp;<br><br>",
@@ -1155,7 +1157,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"tel:0409605900\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SOITA</a>",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:asiakaspalvelu@muuttosi.fi\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">POSTI</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.google.fi/maps/place/Fabianinkatu+5,+00130+Helsinki/@60.1638231,24.9495607,16z/data=!4m5!3m4!1s0x46920bc89138da2b:0xd139c53e5d3705e4!8m2!3d60.1639459!4d24.9500541\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">KARTTA</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1218,10 +1220,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1251,7 +1253,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_name": "ext.menu",
@@ -1263,7 +1265,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1285,14 +1287,14 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "40",
+              "size": "",
               "active": true,
               "color": "#000000",
               "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MUUTTOSI.FI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VALIKKO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tarjous</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Auto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Yhteystiedot</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">eXpress</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"tel:0409605900\">SOITA</a></li>",
           "_anchor": "ext_menu-13"
         },
         {
@@ -1302,11 +1304,18 @@
               "color": "#fff"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
             },
             "P": {
               "text-align": "center",
               "color": "#475577"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -1314,7 +1323,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "52",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1353,13 +1362,13 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 250,
+              "size": "225",
               "active": true,
               "color": "#ffffff"
             }
           },
           "title": "eXpress",
-          "text": "KIIREELLISISSÄ TAPAUKSISSA<br>SOITA!",
+          "text": "<b>24H/7<br>KIIREELLISISSÄ TAPAUKSISSA<br><b style=\"font-style: normal;\">SOITA! 040-9605900</b></b><b><br></b>",
           "_tags": [
             "Theme"
           ],
