@@ -3,7 +3,7 @@
     "currentPage": "page5.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
-    "uniqCompNum": 43,
+    "uniqCompNum": 50,
     "name": "ONE-clone",
     "theme": {
       "name": "mobirise3",
@@ -1306,17 +1306,10 @@
               "color": "#fff"
             },
             "H3": {
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
+              "text-align": "center"
             },
             "P": {
               "text-align": "center",
-              "color": "#475577"
-            },
-            "B": {
-              "color": "#ffffff",
               "font-size": "20px"
             }
           },
@@ -1325,32 +1318,26 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "52",
+            "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fac51c",
+            "bgColor": "#f3c649",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "",
-              "rawUrl": "",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/high-bay-408222-1280-1280x853.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1369,14 +1356,14 @@
               "color": "#ffffff"
             }
           },
-          "title": "eXpress",
-          "text": "<b>24H/7<br>KIIREELLISISSÄ TAPAUKSISSA<br><b style=\"font-style: normal;\">SOITA! 040 960 5900</b></b><b><br></b>",
+          "title": "<br>eXpress <br>24/7",
+          "text": "KIIREELLISISSÄ TAPAUKSISSA SOITA<br>040-960 5900",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
-          "_anchor": "msg-box6-14"
+          "_anchor": "msg-box6-1d"
         }
       ]
     }

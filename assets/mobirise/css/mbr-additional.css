@@ -895,7 +895,6 @@ h6,
 
 
 
-
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -964,20 +963,14 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
-#msg-box6-14 .mbr-section-title,
-#msg-box6-14 .lead p {
+#msg-box6-1d .mbr-section-title,
+#msg-box6-1d .lead p {
   color: #fff;
 }
-#msg-box6-14 H3 {
+#msg-box6-1d H3 {
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 46px;
 }
-#msg-box6-14 P {
+#msg-box6-1d P {
   text-align: center;
-  color: #475577;
-}
-#msg-box6-14 B {
-  color: #ffffff;
   font-size: 20px;
 }
