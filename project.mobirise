@@ -4,7 +4,7 @@
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 50,
-    "name": "ONE-clone",
+    "name": "BETA",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -33,7 +33,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2017-03-13-at-11.13.16-110x67-109x67.png",
     "noImageResize": "",
     "google-analytics": "",
     "screenshot": "screenshot.png"
