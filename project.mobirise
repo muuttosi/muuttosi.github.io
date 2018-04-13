@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.6.7",
     "versionPublish": "4.6.7",
     "uniqCompNum": 43,
@@ -389,10 +389,10 @@
           "description2": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
           "description3": "<span style=\"font-style: normal;\">EI KUUKAUDEN VAIHDE</span><br>",
           "description4": "<span style=\"font-style: normal;\">KAIKKI PÄIVÄT</span>",
-          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">OHJEET</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INFO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INFO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INFO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INFO</a>",
           "_tags": [
             "Theme"
           ],
